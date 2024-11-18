@@ -1,13 +1,13 @@
 <h1>
   <span class="prefix"></span>
-  <span class="headline">[tktk Headline]</span>
+  <span class="headline">Java BDD Project</span>
 </h1>
 
 ## About
 
 ***Instructors should see the Instructor Guide for more configuration details.***
 
-tktk Write a short but descriptive summary of the content in this project module here.
+In this project, you will create a Java Spring Boot application that uses Cucumber for BDD testing. The app will use a PostgreSQL database and include at least 3 CRUD operations. Each model will have a corresponding Cucumber feature file that tests the CRUD operations. The app will be deployed online so that the rest of the world can use it.
 
 ## Content
 
@@ -15,35 +15,21 @@ tktk Write a short but descriptive summary of the content in this project module
 
 [Requirements and Guidance](./requirements-and-guidance/README.md)
 
-[Deliverables](./deliverables/README.md)
+[Project GitHub Repo Deliverable](./github-repo-deliverable/README.md)
 
-[tktk Requirements PDF](./requirements-and-guidance/assets/project-requirements.pdf)
+[Project Deployed App Deliverable](./deployed-app-deliverable/README.md)
+
+[Project Requirements PDF](./requirements-and-guidance/assets/project-requirements.pdf)
 
 ## Internal
 
 ### Prerequisites
 
-tktk What are the prerequisites of this project?
+Students should have an understanding of Spring Boot, Cucumber, and PostgreSQL before starting this project.
 
 ### Requirements document
 
-tktk Make a copy of the Project Requirements document linked in Google Sheets doc inside the same folder it is in now. Once you have a new URL, replace the one below. Modify the document as necessary. You may need to add or remove sections. Once you have finalized your work on the Project Requirements document in Google Sheets, download it as a PDF, name the file `project-requirements.pdf`, and add it to the `/requirements-and-guidance/assets` directory, which is linked above.
-
-[tktk Project Requirements Google Sheets](https://docs.google.com/spreadsheets/d/17HhGcgTn9zY96FJj175uCGhaHccnA7KUDx_6Bi3xT9k/edit)
-
-### Extras
-
-tktk The below content may be useful if you decide to customize how deliverables are presented to students. Feel free to remove any content that you don't plan to use by removing the link below and the corresponding directory in this repo.
-
-[Planning Deliverable](./planning-deliverable/README.md)
-
-[GitHub Repo Link Deliverable](./github-repo-deliverable/README.md)
-
-[Deployed App Link Deliverable](./deployed-app-deliverable/README.md)
-
-[Planning and GitHub Repo Link Deliverable](./planning-and-github-repo-deliverable/README.md)
-
-[GitHub Repo and Deployed App Links Deliverable](./github-repo-and-deployed-app-deliverable/README.md)
+[Project Requirements Google Sheets](https://docs.google.com/spreadsheets/d/1hQmJgow4MZ2TEQS5_Z2TT3qE7pYrHwHmbCRUuSQSE60/edit)
 
 ### Resources
 
